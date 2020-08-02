@@ -1,0 +1,75 @@
+#top_servers div.unit {
+width:18%;
+color:#00aeef;
+font-size:11px;
+float:left;
+padding:0 0 0 20px;
+
+}
+
+
+
+
+#top_servers div.unit div.map_section {
+float:left;
+height:80px;
+overflow:hidden;
+
+}
+
+#top_servers div.unit div.info_section {
+margin-left:9%;
+width:38%;
+height:80px;
+float:left;
+margin-bottom:-1px;
+overflow:hidden;
+}
+
+#top_servers div.unit div.info_section span.title {
+color:#ccc;
+
+}
+
+#top_servers div.unit div.adress_section {
+margin-top:1px;
+margin-left:-1%;
+width:100%;
+height:35px;
+float:left;
+margin-bottom:2px;
+overflow:hidden;
+
+}
+
+
+
+.month {
+/*margin-top:5px;
+margin-left:2%;*/
+/*width:18%;
+height:145px;*/
+float:left;
+/*margin-bottom:10px;*/
+overflow:hidden;
+font-size:9px;
+overflow-x:hidden;
+
+background-color: #1A1919;
+border-radius: 2px;
+margin: 5px;
+padding: 5px;
+width: 187px;
+/*height:100px;*/
+border-bottom:3px solid #6A93C0;
+}
+.screen {float: left;
+margin: 0px 5px 0px 0px;
+height:60px;
+}
+.screen img{
+width: 80px;
+height:60px;
+
+/*border-radius: 5px;*/
+}
